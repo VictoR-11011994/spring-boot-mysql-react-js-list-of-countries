@@ -1,0 +1,39 @@
+body {
+    background: #353B48;
+    background-image: linear-gradient(to right top, #051937, #201e43, #3a204c, #542150, #6d214f);
+    min-height: 100vh;
+}
+
+
+/* Table (custom search input) */
+
+.table-search-input {
+    background: transparent !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    color: #dfe4ea !important;
+}
+
+/* Custom Scrollbar (code from: www.w3schools.com) */
+
+/* width */
+  ::-webkit-scrollbar {
+    /* width: 10px; */
+    display: none;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #2f3542; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #57606f; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #747d8c; 
+  }
