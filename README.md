@@ -11,3 +11,6 @@ MySQL
 Bootstrap (v5)
 
 HTML, CSS, JS, Animate.css
+
+
+>> Download it as a ZIP File (backend & frontend)
