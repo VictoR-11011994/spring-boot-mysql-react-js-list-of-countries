@@ -1,8 +1,0 @@
-Import in MySQL (Workbench)
-
-Administration -> Data Import -> Import from Self-Contained File
-  (Select the file from the Folder Path)
-
-Default Target Schema -> New -> Name of schema: "all_countries"
-
-Start Import
