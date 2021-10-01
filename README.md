@@ -1,10 +1,10 @@
 ## Technologies:
 
 Java EE (v11)
- Spring Boot
+ - Spring Boot
 
 React Js
- Axios
+ - Axios
 
 MySQL
 
